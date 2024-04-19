@@ -8,3 +8,7 @@ This is the *Data Analysis for Hospitals* project I made myself.
 Here's the link to the project: https://hyperskill.org/projects/152?track=44
 
 Check out my profile: https://hyperskill.org/profile/534807553
+
+<p><b>Learning outcomes:</b> Data analysis using Pandas and matplotlib.pyplot</p>
+
+<p><b>Please upload the project's files to your local repository from designated folder</b></p>
