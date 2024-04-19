@@ -1,4 +1,4 @@
-# Data-Analysis-for-Hospitals
+# Data Analysis for Hospitals
 
 This is the *Data Analysis for Hospitals* project I made myself.
 
