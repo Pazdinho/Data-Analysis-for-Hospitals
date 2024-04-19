@@ -10,4 +10,4 @@ Here's the link to the project: https://hyperskill.org/projects/152?track=44
 
 <p><b>Learning outcomes:</b> Data analysis using Pandas and matplotlib.pyplot</p>
 
-<p><b>Please upload the project's files to your local repository from designated folder</b></p>
+<p><b>Please upload the project's files to your local repository from "Data" folder</b></p>
